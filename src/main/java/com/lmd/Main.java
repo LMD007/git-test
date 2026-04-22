@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
         System.out.println("Hello Git!");
-        System.out.println("Hello Git!");
+        System.out.println("master test");
     }
 }
