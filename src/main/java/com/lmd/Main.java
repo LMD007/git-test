@@ -9,6 +9,7 @@ public class Main {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
-        System.out.println("clone test");
+        System.out.println("clone test01");
+        System.out.println("clone test02");
     }
 }
