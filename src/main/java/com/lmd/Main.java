@@ -11,5 +11,6 @@ public class Main {
         System.out.println("pull test");
         System.out.println("clone test01");
         System.out.println("clone test02");
+        System.out.println("gitee test01");
     }
 }
