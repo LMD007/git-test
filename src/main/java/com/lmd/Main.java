@@ -13,5 +13,6 @@ public class Main {
         System.out.println("clone test02");
         System.out.println("gitee test01");
         System.out.println("gitee test02");
+        System.out.println("github-gitee");
     }
 }
